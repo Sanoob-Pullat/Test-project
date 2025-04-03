@@ -1,2 +1,2 @@
-# Test-project
+# test-project
 For GitHub trial
